@@ -14,7 +14,7 @@ choice = input("Enter your choice (1/2/3): ")
 
 # ---------------- SOURCE SELECTION ----------------
 if choice == "1":
-    source = "/home/ashwin/Desktop/python _fundamentals/WhatsApp Video 2026-04-03 at 3.52.08 PM.mp4"
+    source = "/home/ashwin/Desktop/detection system/WhatsApp Video 2026-04-03 at 3.52.08 PM.mp4"
 elif choice == "2":
     source = 0
 elif choice == "3":
